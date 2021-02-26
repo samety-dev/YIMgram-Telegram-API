@@ -41,9 +41,9 @@ def getUpdates() = invoke("getUpdates", {}, ::echo)
 
 
 // Get updates in chat
-getUpdates()
+//getUpdates()
 
 //Send Message on Channel
-sendMessage("Hello", "@yimxlang")
+//sendMessage("Hello", "@yimxlang")
 
 }
